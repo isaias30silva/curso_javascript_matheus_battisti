@@ -4,7 +4,7 @@
 
 </div>
 
-![MATHEUS BATTISTI - CANAL HORA DE CODAR YOUTUBE](C:\Users\isaia\Documents\curso_javascript_matheus_battisti\images\matheus_battisti.jpg)
+![MATHEUS BATTISTI - CANAL HORA DE CODAR YOUTUBE](images/matheus_battisti.jpg)
 
 <div align="center">
 
