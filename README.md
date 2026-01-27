@@ -4,7 +4,7 @@
 
 </div>
 
-![MATHEUS BATTISTI - CANAL HORA DE CODAR YOUTUBE](/images/matheus_battisti.png)
+![MATHEUS BATTISTI - CANAL HORA DE CODAR YOUTUBE](images/matheus_battisti.png)
 
 <div align="center">
 
@@ -12,29 +12,15 @@
 
 </div>
 
-<li>
 <ul>
-<p>As diversas utilizações do JavaScript;</p>
+  <li>As diversas utilizações do JavaScript;</li>
+  <li>Sintaxe;</li>
+  <li>Tipos de dados;</li>
+  <li>Estruturas de condição e repetição;</li>
+  <li>Manipulação de DOM;</li>
+  <li>Eventos do JavaScript;</li>
+  <li>Particularidades do JavaScript;</li>
 </ul>
-<ul>
-<p>Sintaxe;</p>
-</ul>
-<ul>
-<p>Tipos de dados;</p>
-</ul>
-<ul>
-<p>Estruturas de condição e repetição;</p>
-</ul>
-<ul>
-<p>Manipulação de DOM;</p>
-</ul>
-<ul>
-<p>Eventos do JavaScript;</p>
-</ul>
-<ul>
-<p>Particularidades do JavaScript;</p>
-</ul>
-</li>
 
 <div align="center">
 
