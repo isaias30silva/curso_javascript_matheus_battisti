@@ -2,9 +2,9 @@
 
 **CURSO JAVASCRIPT - MATHEUS BATTISTI**
 
-</div>
-
 ![MATHEUS BATTISTI - CANAL HORA DE CODAR YOUTUBE](images/matheus_battisti.jpg)
+
+</div>
 
 <div align="center">
 
